@@ -1,4 +1,4 @@
-# Lucas Peixoto Fernandes 💙
+# Lucas Peixoto Fernandes 🖥️
 ### Welcome!!
 
 - Estudando JavaScript
